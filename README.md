@@ -78,7 +78,8 @@ int main() {
 
 ```
 # OUTPUT
-![Uploading image.png…]()
+![Screenshot 2025-04-10 144525](https://github.com/user-attachments/assets/abbe4af5-013e-4c89-a33c-f3b0b1891b52)
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
