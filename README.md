@@ -94,15 +94,9 @@ int yywrap() {
     return 1;
 }
 ```
-## var.c
-```
-#include<stdio.h>
-int main(){
-int a,b; return 0;
-}
-```
+
 # OUTPUT
-![image](https://github.com/user-attachments/assets/14511751-4bce-4f9a-8108-cafa928d95b9)
+![Uploading Screenshot 2025-04-24 212113.png…]()
 
 
 
