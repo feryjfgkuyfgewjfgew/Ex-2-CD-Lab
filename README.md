@@ -2,7 +2,9 @@
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
-
+# DATE:29-4-2025
+# NAME:NARESH.R
+# REG NO:212223240104
 1.	Start the program.
 
 2.	Lex program consists of three parts.
